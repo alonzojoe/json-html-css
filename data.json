@@ -1,0 +1,58 @@
+{
+  "categories": [
+    {
+      "type": "Men",
+      "total": 212.9,
+      "countries": [
+        {
+          "name": "Australia",
+          "value": 12.84,
+          "person": "Ghana",
+          "personValue": 16.46
+        },
+        {
+          "name": "Indonesia",
+          "value": 139.13,
+          "person": "Kenya",
+          "personValue": 27.32
+        }
+      ]
+    },
+    {
+      "type": "Women",
+      "total": 212.9,
+      "countries": [
+        {
+          "name": "Australia",
+          "value": 12.94,
+          "person": "Ghana",
+          "personValue": 16.38
+        },
+        {
+          "name": "Indonesia",
+          "value": 137.23,
+          "person": "Kenya",
+          "personValue": 27.66
+        }
+      ]
+    },
+    {
+      "type": "Youth",
+      "total": 212.9,
+      "countries": [
+        {
+          "name": "Australia",
+          "value": 5.71,
+          "person": "Ghana",
+          "personValue": 14.62
+        },
+        {
+          "name": "Indonesia",
+          "value": 82.96,
+          "person": "Kenya",
+          "personValue": 24.42
+        }
+      ]
+    }
+  ]
+}
